@@ -1,6 +1,8 @@
 # datepicker-holidays
 A little modification from [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) by uxsolutions
 
+![alt text](https://i.imgur.com/e9BhGOT.png)
+
 ### Requirements
 1. [Bootstrap](https://getbootstrap.com/) 2.0.4+
 2. [jQuery](https://jquery.com/) 1.7.1+
