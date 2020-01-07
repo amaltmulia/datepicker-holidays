@@ -15,7 +15,15 @@ For Example :
 ~~~javascript
 $('.datepicker').datepicker({
     showHoliday: true,
-    datesHoliday: ['12/31/2019','01/01/2020'],
-    holidayNames: ['New Years Eve','New Year']
+    datesHoliday: [
+    	'01/01/2020',
+    	'01/25/2020',
+    	'03/22/2020',
+    ],
+    holidayNames: [
+    	'New Year',
+    	'Tahun Baru Imlek 2571',
+    	'Isra Mikraj Nabi Muhammad SAW',
+    ]
 });
 ~~~
